@@ -14,7 +14,9 @@ type Post struct {
 	PostDate     time.Time
 	CommentsLink string
 	Description  string
-	Categories   []string
+	// Since most often the categories are the tags, we will refer to
+	// categories as tags
+	Tags   []string
 }
 
 func DecodePosts(reader io.Reader) ([]Post, error) {
@@ -32,7 +34,7 @@ func DecodePosts(reader io.Reader) ([]Post, error) {
 			PostDate:     time.Time(item.PubDate),
 			CommentsLink: item.Comments,
 			Description:  item.Description,
-			Categories:   item.Categories,
+			Tags:         item.Categories,
 		}
 
 		posts[i] = post
