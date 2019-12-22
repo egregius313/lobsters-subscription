@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lobsters: programming - Use when every tag or no specific tag applies</title>
+    <description>programming - Use when every tag or no specific tag applies</description>
+    <link>https://lobste.rs/</link>
+    <atom:link href="https://lobste.rs/t/programming.rss" rel="self" type="application/rss+xml" />
+
+      <item>
+        <title>A Beginner&#39;s Look at BenchmarkTools.jl</title>
+        <link>https://randyzwitch.com/benchmarktools-julia-benchmarking/</link>
+        <guid isPermaLink="false">https://lobste.rs/s/m9zan1</guid>
+        <author>jstuartmill@users.lobste.rs (jstuartmill)</author>
+        <pubDate>Fri, 20 Dec 2019 21:51:22 -0600</pubDate>
+        <comments>https://lobste.rs/s/m9zan1/beginner_s_look_at_benchmarktools_jl</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/m9zan1/beginner_s_look_at_benchmarktools_jl&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>programming</category>
+      </item>
+      <item>
+        <title>Cafeteria Monitoring System (Real time Congestion data provider)</title>
+        <link>https://beginnerjunwoo.wordpress.com/2019/12/20/project-cafeteria-monitoring-system-real-time-congestion-data-provider-and-how-i-ended-up-receiving-an-award-from-minister-of-education-department-of-korea/</link>
+        <guid isPermaLink="false">https://lobste.rs/s/l2dtqy</guid>
+        <author>calvin@users.lobste.rs (calvin)</author>
+        <pubDate>Fri, 20 Dec 2019 21:43:37 -0600</pubDate>
+        <comments>https://lobste.rs/s/l2dtqy/cafeteria_monitoring_system_real_time</comments>
+        <description>
+          &#60;blockquote&#62;&#10;&#60;p&#62;[&#8230;] and how I ended up receiving an award from &#8216;Minister of Education department of Korea&#8217; (title truncated to fit)&#60;/p&#62;&#10;&#60;/blockquote&#62;&#10;
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/l2dtqy/cafeteria_monitoring_system_real_time&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>programming</category>
+      </item>
+      <item>
+        <title>What are you doing this weekend?</title>
+        <link>https://lobste.rs/s/lkgb64/what_are_you_doing_this_weekend</link>
+        <guid isPermaLink="false">https://lobste.rs/s/lkgb64</guid>
+        <author>caius@users.lobste.rs (caius)</author>
+        <pubDate>Fri, 20 Dec 2019 16:53:40 -0600</pubDate>
+        <comments>https://lobste.rs/s/lkgb64/what_are_you_doing_this_weekend</comments>
+        <description>
+          &#60;p&#62;Feel free to tell what you plan on doing this weekend and even ask for help or feedback.&#60;/p&#62;&#10;&#60;p&#62;Please keep in mind it&#8217;s more than OK to do nothing at all too!&#60;/p&#62;&#10;
+        </description>
+          <category>programming</category>
+          <category>ask</category>
+      </item>
+      <item>
+        <title>Packaging, Vendoring, and How It&#8217;s Changing</title>
+        <link>https://fy.blackhats.net.au/blog/html/2019/12/18/packaging_vendoring_and_how_it_s_changing.html</link>
+        <guid isPermaLink="false">https://lobste.rs/s/ncuziw</guid>
+        <author>calvin@users.lobste.rs (calvin)</author>
+        <pubDate>Fri, 20 Dec 2019 10:48:03 -0600</pubDate>
+        <comments>https://lobste.rs/s/ncuziw/packaging_vendoring_how_it_s_changing</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/ncuziw/packaging_vendoring_how_it_s_changing&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>practices</category>
+          <category>programming</category>
+      </item>
+      <item>
+        <title>Nim Community Survey 2019</title>
+        <link>https://nim-lang.org/blog/2019/12/20/community-survey-2019.html</link>
+        <guid isPermaLink="false">https://lobste.rs/s/urbjom</guid>
+        <author>narimiran@users.lobste.rs (narimiran)</author>
+        <pubDate>Fri, 20 Dec 2019 03:28:44 -0600</pubDate>
+        <comments>https://lobste.rs/s/urbjom/nim_community_survey_2019</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/urbjom/nim_community_survey_2019&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>programming</category>
+      </item>
+      <item>
+        <title>Y2K, 20 years later: the armageddon that never was</title>
+        <link>https://www.documentjournal.com/2019/12/y2k-20-years-later-documents-contributors-recall-the-armageddon-that-never-was/</link>
+        <guid isPermaLink="false">https://lobste.rs/s/ik5fyc</guid>
+        <author>irongeek@users.lobste.rs (irongeek)</author>
+        <pubDate>Thu, 19 Dec 2019 22:53:50 -0600</pubDate>
+        <comments>https://lobste.rs/s/ik5fyc/y2k_20_years_later_armageddon_never_was</comments>
+        <description>
+          &#60;p&#62;I recall spending time adding the two extra characters to the date field in lots of COBOL programs in the late 1990s.  I also remember being asked to be available New Years Eve.  Nothing happened, everything just worked.&#60;/p&#62;&#10;
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/ik5fyc/y2k_20_years_later_armageddon_never_was&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>programming</category>
+          <category>historical</category>
+      </item>
+      <item>
+        <title>Building a new Win 3.1 app in 2019 Part 1: Slack client</title>
+        <link>http://yeokhengmeng.com/2019/12/building-a-new-win-3-1-app-in-2019-part-1-slack-client/</link>
+        <guid isPermaLink="false">https://lobste.rs/s/ybynq7</guid>
+        <author>calvin@users.lobste.rs (calvin)</author>
+        <pubDate>Thu, 19 Dec 2019 07:33:39 -0600</pubDate>
+        <comments>https://lobste.rs/s/ybynq7/building_new_win_3_1_app_2019_part_1_slack</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/ybynq7/building_new_win_3_1_app_2019_part_1_slack&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>windows</category>
+          <category>programming</category>
+          <category>historical</category>
+      </item>
+      <item>
+        <title>Reviewing Pull Requests</title>
+        <link>https://chelseatroy.com/2019/12/18/reviewing-pull-requests/</link>
+        <guid isPermaLink="false">https://lobste.rs/s/g1lour</guid>
+        <author>histrio@users.lobste.rs (histrio)</author>
+        <pubDate>Thu, 19 Dec 2019 00:52:33 -0600</pubDate>
+        <comments>https://lobste.rs/s/g1lour/reviewing_pull_requests</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/g1lour/reviewing_pull_requests&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>practices</category>
+          <category>vcs</category>
+          <category>programming</category>
+      </item>
+      <item>
+        <title>Programming Language for the ancient Chinese</title>
+        <link>http://wenyan-lang.lingdong.works/</link>
+        <guid isPermaLink="false">https://lobste.rs/s/vutyqk</guid>
+        <author>sanxiyn@users.lobste.rs (sanxiyn)</author>
+        <pubDate>Wed, 18 Dec 2019 23:55:14 -0600</pubDate>
+        <comments>https://lobste.rs/s/vutyqk/programming_language_for_ancient</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/vutyqk/programming_language_for_ancient&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>programming</category>
+      </item>
+      <item>
+        <title>Golang for Node.js Developers</title>
+        <link>https://github.com/miguelmota/golang-for-nodejs-developers</link>
+        <guid isPermaLink="false">https://lobste.rs/s/hke2co</guid>
+        <author>miguelmota@users.lobste.rs (miguelmota)</author>
+        <pubDate>Wed, 18 Dec 2019 15:11:03 -0600</pubDate>
+        <comments>https://lobste.rs/s/hke2co/golang_for_node_js_developers</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/hke2co/golang_for_node_js_developers&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>go</category>
+          <category>show</category>
+          <category>programming</category>
+          <category>nodejs</category>
+      </item>
+      <item>
+        <title>Node.js boilerplate / REST API / Authentication from scratch - (express, mongodb)</title>
+        <link>https://github.com/watscho/express-mongodb-rest-api-boilerplate</link>
+        <guid isPermaLink="false">https://lobste.rs/s/7bghlr</guid>
+        <author>watscho@users.lobste.rs (watscho)</author>
+        <pubDate>Wed, 18 Dec 2019 14:07:36 -0600</pubDate>
+        <comments>https://lobste.rs/s/7bghlr/node_js_boilerplate_rest_api</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/7bghlr/node_js_boilerplate_rest_api&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>javascript</category>
+          <category>api</category>
+          <category>programming</category>
+          <category>nodejs</category>
+      </item>
+      <item>
+        <title>That one time I thought I understood recursion</title>
+        <link>https://functional.christmas/2019/18</link>
+        <guid isPermaLink="false">https://lobste.rs/s/tobmsc</guid>
+        <author>j11g@users.lobste.rs (j11g)</author>
+        <pubDate>Wed, 18 Dec 2019 03:43:29 -0600</pubDate>
+        <comments>https://lobste.rs/s/tobmsc/one_time_i_thought_i_understood_recursion</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/tobmsc/one_time_i_thought_i_understood_recursion&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>programming</category>
+      </item>
+      <item>
+        <title>Workload Isolation with Queue Sharding</title>
+        <link>https://www.mikeperham.com/2019/12/17/workload-isolation-with-queue-sharding/</link>
+        <guid isPermaLink="false">https://lobste.rs/s/krjlsi</guid>
+        <author>mperham@users.lobste.rs (mperham)</author>
+        <pubDate>Tue, 17 Dec 2019 16:15:56 -0600</pubDate>
+        <comments>https://lobste.rs/s/krjlsi/workload_isolation_with_queue_sharding</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/krjlsi/workload_isolation_with_queue_sharding&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>programming</category>
+      </item>
+      <item>
+        <title>Don&#39;t use booleans</title>
+        <link>https://www.luu.io/posts/dont-use-booleans/</link>
+        <guid isPermaLink="false">https://lobste.rs/s/fwgki5</guid>
+        <author>calvin@users.lobste.rs (calvin)</author>
+        <pubDate>Tue, 17 Dec 2019 10:37:01 -0600</pubDate>
+        <comments>https://lobste.rs/s/fwgki5/don_t_use_booleans</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/fwgki5/don_t_use_booleans&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>programming</category>
+      </item>
+      <item>
+        <title>Tmux and Vim &#8212; configurations to be better together (2017)</title>
+        <link>https://www.bugsnag.com/blog/tmux-and-vim</link>
+        <guid isPermaLink="false">https://lobste.rs/s/wcwv03</guid>
+        <author>tuxie_@users.lobste.rs (tuxie_)</author>
+        <pubDate>Tue, 17 Dec 2019 09:31:55 -0600</pubDate>
+        <comments>https://lobste.rs/s/wcwv03/tmux_vim_configurations_be_better</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/wcwv03/tmux_vim_configurations_be_better&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>vim</category>
+          <category>programming</category>
+      </item>
+      <item>
+        <title>The sad state of personal data and infrastructure</title>
+        <link>https://beepb00p.xyz/sad-infra.html</link>
+        <guid isPermaLink="false">https://lobste.rs/s/ztwbh4</guid>
+        <author>karlicoss@users.lobste.rs (karlicoss)</author>
+        <pubDate>Tue, 17 Dec 2019 06:56:34 -0600</pubDate>
+        <comments>https://lobste.rs/s/ztwbh4/sad_state_personal_data_infrastructure</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/ztwbh4/sad_state_personal_data_infrastructure&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>rant</category>
+          <category>practices</category>
+          <category>programming</category>
+      </item>
+      <item>
+        <title>No real numbers</title>
+        <link>http://beza1e1.tuxen.de/no_real_numbers.html</link>
+        <guid isPermaLink="false">https://lobste.rs/s/oh5l5a</guid>
+        <author>qznc@users.lobste.rs (qznc)</author>
+        <pubDate>Mon, 16 Dec 2019 13:10:22 -0600</pubDate>
+        <comments>https://lobste.rs/s/oh5l5a/no_real_numbers</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/oh5l5a/no_real_numbers&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>programming</category>
+      </item>
+      <item>
+        <title>What are you working on this week?</title>
+        <link>https://lobste.rs/s/claizj/what_are_you_working_on_this_week</link>
+        <guid isPermaLink="false">https://lobste.rs/s/claizj</guid>
+        <author>caius@users.lobste.rs (caius)</author>
+        <pubDate>Mon, 16 Dec 2019 11:09:37 -0600</pubDate>
+        <comments>https://lobste.rs/s/claizj/what_are_you_working_on_this_week</comments>
+        <description>
+          &#60;p&#62;What are you doing this week? Feel free to share!&#60;/p&#62;&#10;&#60;p&#62;Keep in mind it&#8217;s OK to do nothing at all, too.&#60;/p&#62;&#10;
+        </description>
+          <category>programming</category>
+          <category>ask</category>
+      </item>
+      <item>
+        <title>Make your .NET programs more responsive with async/await in .NET Core, C# and VS Code</title>
+        <link>https://softchris.github.io/pages/dotnet-tasks.html</link>
+        <guid isPermaLink="false">https://lobste.rs/s/k2ygho</guid>
+        <author>JeremyMorgan@users.lobste.rs (JeremyMorgan)</author>
+        <pubDate>Sun, 15 Dec 2019 23:56:37 -0600</pubDate>
+        <comments>https://lobste.rs/s/k2ygho/make_your_net_programs_more_responsive</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/k2ygho/make_your_net_programs_more_responsive&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>web</category>
+          <category>programming</category>
+          <category>dotnet</category>
+      </item>
+      <item>
+        <title>Finding all public IPv4 and IPv6 addresses in a UNIX shell script w/ GNU Parallel</title>
+        <link>https://serverfault.com/q/995605</link>
+        <guid isPermaLink="false">https://lobste.rs/s/fgychi</guid>
+        <author>cnst@users.lobste.rs (cnst)</author>
+        <pubDate>Sun, 15 Dec 2019 19:38:05 -0600</pubDate>
+        <comments>https://lobste.rs/s/fgychi/finding_all_public_ipv4_ipv6_addresses</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/fgychi/finding_all_public_ipv4_ipv6_addresses&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>unix</category>
+          <category>networking</category>
+          <category>show</category>
+          <category>programming</category>
+      </item>
+      <item>
+        <title>Build and Deploy a Blazor App Without Touching a Windows Machine</title>
+        <link>https://www.jeremymorgan.com/blog/linux/blazor-in-linux/</link>
+        <guid isPermaLink="false">https://lobste.rs/s/9l2vm0</guid>
+        <author>JeremyMorgan@users.lobste.rs (JeremyMorgan)</author>
+        <pubDate>Sun, 15 Dec 2019 10:47:57 -0600</pubDate>
+        <comments>https://lobste.rs/s/9l2vm0/build_deploy_blazor_app_without_touching</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/9l2vm0/build_deploy_blazor_app_without_touching&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>web</category>
+          <category>programming</category>
+          <category>wasm</category>
+      </item>
+      <item>
+        <title>An Overview of Git&#39;s Original C Header File</title>
+        <link>https://initialcommit.io/blog/Learn-Git-Header-Files</link>
+        <guid isPermaLink="false">https://lobste.rs/s/8umdmf</guid>
+        <author>initialcommit@users.lobste.rs (initialcommit)</author>
+        <pubDate>Sun, 15 Dec 2019 09:23:23 -0600</pubDate>
+        <comments>https://lobste.rs/s/8umdmf/overview_git_s_original_c_header_file</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/8umdmf/overview_git_s_original_c_header_file&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>c</category>
+          <category>vcs</category>
+          <category>programming</category>
+      </item>
+      <item>
+        <title>USB Polling Rate Adventure</title>
+        <link>https://www.natano.net/blog/2019-12-14-usb-polling-adventure/</link>
+        <guid isPermaLink="false">https://lobste.rs/s/vmnqjb</guid>
+        <author>natano@users.lobste.rs (natano)</author>
+        <pubDate>Sun, 15 Dec 2019 07:04:41 -0600</pubDate>
+        <comments>https://lobste.rs/s/vmnqjb/usb_polling_rate_adventure</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/vmnqjb/usb_polling_rate_adventure&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>hardware</category>
+          <category>programming</category>
+      </item>
+      <item>
+        <title>Want to be a better coder? Type faster</title>
+        <link>https://htmlpasta.com/want-to-be-a-better-coder-type-faster/</link>
+        <guid isPermaLink="false">https://lobste.rs/s/fq65oi</guid>
+        <author>Bowero@users.lobste.rs (Bowero)</author>
+        <pubDate>Sun, 15 Dec 2019 06:06:50 -0600</pubDate>
+        <comments>https://lobste.rs/s/fq65oi/want_be_better_coder_type_faster</comments>
+        <description>
+          
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/fq65oi/want_be_better_coder_type_faster&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>programming</category>
+      </item>
+      <item>
+        <title>Type-Safe Raytracing in Modern C++</title>
+        <link>https://ajeetdsouza.github.io/blog/posts/type-safe-raytracing-in-modern-cpp</link>
+        <guid isPermaLink="false">https://lobste.rs/s/py4rmj</guid>
+        <author>ajeetdsouza@users.lobste.rs (ajeetdsouza)</author>
+        <pubDate>Sun, 15 Dec 2019 01:26:53 -0600</pubDate>
+        <comments>https://lobste.rs/s/py4rmj/type_safe_raytracing_modern_c</comments>
+        <description>
+          &#60;p&#62;Leveraging the C++ type system for safer and more robust code&#60;/p&#62;&#10;
+            &#60;p&#62;&#60;a href=&#34;https://lobste.rs/s/py4rmj/type_safe_raytracing_modern_c&#34;&#62;Comments&#60;/a&#62;&#60;/p&#62;
+        </description>
+          <category>practices</category>
+          <category>programming</category>
+          <category>c++</category>
+      </item>
+  </channel>
+</rss>
