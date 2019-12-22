@@ -1,4 +1,4 @@
-package lobsters
+package rss
 
 import (
 	"encoding/xml"

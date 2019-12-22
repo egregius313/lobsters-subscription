@@ -1,4 +1,4 @@
-package lobsters
+package rss
 
 import (
 	"encoding/xml"
@@ -15,15 +15,15 @@ type Guid struct {
 }
 
 type Item struct {
-	XMLName     xml.Name  `xml:"item"`
-	Title       string    `xml:"title"`
-	Link        string    `xml:"link"`
-	Guid        Guid      `xml:"guid"`
-	Author      string    `xml:"author"`
-	PubDate     PubDate   `xml:"pubDate"`
-	Comments    string    `xml:"comments"`
-	Description string    `xml:"description"`
-	Categories  []string  `xml:"category"`
+	XMLName     xml.Name `xml:"item"`
+	Title       string   `xml:"title"`
+	Link        string   `xml:"link"`
+	Guid        Guid     `xml:"guid"`
+	Author      string   `xml:"author"`
+	PubDate     PubDate  `xml:"pubDate"`
+	Comments    string   `xml:"comments"`
+	Description string   `xml:"description"`
+	Categories  []string `xml:"category"`
 }
 
 type PubDate time.Time
@@ -31,10 +31,10 @@ type PubDate time.Time
 func (pd *PubDate) UnmarshalXML(d *xml.Decoder, start xml.StartElement) error {
 	var v string
 	d.DecodeElement(&v, &start)
-    parse, err := time.Parse(PubDateFormat, v)
-    if err != nil {
-        return err
-    }
+	parse, err := time.Parse(PubDateFormat, v)
+	if err != nil {
+		return err
+	}
 	*pd = PubDate(parse)
 	return err
 }
@@ -69,4 +69,8 @@ func DecodeItems(reader io.Reader) ([]Item, error) {
 		return nil, err
 	}
 	return feed.Channel.Items, nil
+}
+
+func PubDateToTime(pd PubDate) time.Time {
+	return time.Time(pd)
 }
